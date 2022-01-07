@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+  height: auto;
+}
+
+img.recipe-image {
+  width: 750px;
+  height: auto;
+}
